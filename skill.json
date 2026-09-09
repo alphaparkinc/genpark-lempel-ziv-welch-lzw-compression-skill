@@ -1,0 +1,17 @@
+{
+  "name": "genpark-lempel-ziv-welch-lzw-compression-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Lempel-Ziv-Welch (LZW) Adaptive Lossless Dictionary Compression & Decompression Engine",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "information-theory",
+    "lzw-compression",
+    "lossless-compression",
+    "dictionary-coding"
+  ]
+}
